@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Gaurav Kumar!  
 
 Welcome to my GitHub profile! 🚀  
+https://medium.com/agileactors/quotes-only-programmers-will-get-532ff1a36c4f
 
 ## 👨‍💻 About Me  
 
