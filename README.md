@@ -1,12 +1,8 @@
 # Hi there 👋, I'm Gaurav Kumar!  
 
-[![Profile Banner with Coding GIF](https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif)](https://medium.com/agileactors/quotes-only-programmers-will-get-532ff1a36c4f)
-
 Welcome to my GitHub profile! 🚀  
 
 ## 👨‍💻 About Me  
-
-![Coding GIF](https://media.giphy.com/media/2lQZT1HkF3Zha/giphy.gif)  
 
 - 🌱 I’m a passionate **web developer** with expertise in the **MERN Stack**.  
 - 🔍 Proficient in **manual testing** and **automated testing** using **Python**.  
@@ -22,8 +18,6 @@ Welcome to my GitHub profile! 🚀
 - **Testing Automation:** Built Python-based test cases for web applications to ensure seamless functionality.  
 
 ## 🚀 Let's Connect  
-
-![Connect GIF](https://media.giphy.com/media/26xBMc3ZpX29dd2Wc/giphy.gif)  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-kumar0009/)  
 - 📧 Reach me: gauravmaan0009@gmail.com  
