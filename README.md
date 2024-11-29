@@ -16,8 +16,6 @@ Welcome to my GitHub profile! 🚀
 
 ## 🌟 Projects  
 
-![Project Showcase](./images/project-showcase.png)  
-
 - **Tasveer Web Application:** An application catering to diverse audiences.  
 - **Node.js Applications:** Developed an app to manage aadhar card registrations using MongoDB and Mongoose.  
 - **Medical App (In Progress):** A platform for medical professionals to connect with suppliers.  
