@@ -1,9 +1,12 @@
 # Hi there 👋, I'm Gaurav Kumar!  
 
+![Profile Banner](./images/banner.png)  
+
 Welcome to my GitHub profile! 🚀  
-https://medium.com/agileactors/quotes-only-programmers-will-get-532ff1a36c4f
 
 ## 👨‍💻 About Me  
+
+![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)  
 
 - 🌱 I’m a passionate **web developer** with expertise in the **MERN Stack**.  
 - 🔍 Proficient in **manual testing** and **automated testing** using **Python**.  
@@ -11,27 +14,19 @@ https://medium.com/agileactors/quotes-only-programmers-will-get-532ff1a36c4f
 - 🎓 Graduated with a **Bachelor of Computer Application** from **Shri Guru Gobind Singh College**, Chandigarh (2023).  
 - 💻 I enjoy solving problems on platforms like **LeetCode** and exploring new technologies to build impactful projects.  
 
-## 💡 Interests  
-- Web development and application design.  
-- Exploring **blockchain in healthcare**.  
-- Automated testing frameworks and techniques.  
-- Working on innovative projects, such as a **medical application** for direct product sales by medical professionals.  
-
-## 🔧 Tech Stack  
-- **Languages:** JavaScript, Python, Core Java, Node.js  
-- **Frameworks & Libraries:** React, Express.js  
-- **Databases:** MongoDB  
-- **Testing Tools:** Selenium (Python), PyTest, Manual Testing  
-- **Tools:** RapidMiner, Mongoose, Git  
-
 ## 🌟 Projects  
+
+![Project Showcase](./images/project-showcase.png)  
+
 - **Tasveer Web Application:** An application catering to diverse audiences.  
 - **Node.js Applications:** Developed an app to manage aadhar card registrations using MongoDB and Mongoose.  
 - **Medical App (In Progress):** A platform for medical professionals to connect with suppliers.  
 - **Testing Automation:** Built Python-based test cases for web applications to ensure seamless functionality.  
 
 ## 🚀 Let's Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-kumar0009/)
-- 📧 Reach me: gauravmaan0009@gmail.com 
 
-Thanks for visiting! Let's build something amazing together! 😊  
+![Connect GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
+
+- 🌐 [Portfolio](#) (Add your portfolio link here)  
+- 💼 [LinkedIn](#) (Add your LinkedIn profile link here)  
+- 📧 Reach me: gauravkumar@example.com (Replace with your email)  
