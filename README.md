@@ -10,12 +10,13 @@ Welcome to my GitHub profile! 🚀
 - 💻 I enjoy solving problems on platforms like **LeetCode** and exploring new technologies to build impactful projects.  
 
 ## 💡 Interests  
-- Web development and application design.  
+- Web development and application design.
+- Testing and Quality assurence
 - Exploring **blockchain in healthcare**.  
 - Working on innovative projects, such as a **medical application** for direct product sales by medical professionals.  
 
 ## 🔧 Tech Stack  
-- **Languages:** JavaScript, Core Java, Node.js  
+- **Languages:** JavaScript, Core Java, Node.js, Python 
 - **Frameworks & Libraries:** React, Express.js  
 - **Databases:** MongoDB  
 - **Tools:** RapidMiner, Mongoose, Git  
@@ -23,7 +24,7 @@ Welcome to my GitHub profile! 🚀
 ## 🌟 Projects  
 - **Tasveer Web Application:** An application catering to diverse audiences.  
 - **Node.js Applications:** Developed an app to manage aadhar card registrations using MongoDB and Mongoose.  
-- **Medical App (In Progress):** A platform for medical professionals to connect with suppliers.  
+- **Medical App (In Progress):** A platform for medical professionals to connect with suppliers.
 
 ## 🚀 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-kumar0009/)
