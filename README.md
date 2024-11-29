@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Gaurav Kumar!  
 
-![Profile Banner](./images/banner.png)  
+[![Profile Banner](./images/banner.png)](https://medium.com/agileactors/quotes-only-programmers-will-get-532ff1a36c4f)  
 
 Welcome to my GitHub profile! 🚀  
 
@@ -27,6 +27,5 @@ Welcome to my GitHub profile! 🚀
 
 ![Connect GIF](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)  
 
-- 🌐 [Portfolio](#) (Add your portfolio link here)  
-- 💼 [LinkedIn](#) (Add your LinkedIn profile link here)  
-- 📧 Reach me: gauravkumar@example.com (Replace with your email)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-kumar0009/)  
+- 📧 Reach me: gauravmaan0009@gmail.com  
