@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Gaurav Kumar!  
 
-![Profile Banner](/Users/gauravmaan/Downloads/banner.jpg)  
+[![Profile Banner with Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)]
 
 Welcome to my GitHub profile! 🚀  
 
@@ -15,6 +15,8 @@ Welcome to my GitHub profile! 🚀
 - 💻 I enjoy solving problems on platforms like **LeetCode** and exploring new technologies to build impactful projects.  
 
 ## 🌟 Projects  
+
+![Project Showcase](./images/project-showcase.png)  
 
 - **Tasveer Web Application:** An application catering to diverse audiences.  
 - **Node.js Applications:** Developed an app to manage aadhar card registrations using MongoDB and Mongoose.  
